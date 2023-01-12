@@ -4,5 +4,5 @@ second text is here
 
 third text is here
 
-howtoGitGit 1
+howtoGitGit but 3
 howtoGitGit 2
