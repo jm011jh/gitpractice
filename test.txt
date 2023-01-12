@@ -1,6 +1,6 @@
 first text is here
 
-second text is ...I am kommi~
+second text is ...I am kommi~ kommi2
 
 third text is howtoGitGitGit4
 
