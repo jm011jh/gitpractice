@@ -2,7 +2,7 @@ first text is here
 
 second text is ...I am kommi~ kommi2
 
-third text is howtoGitGitGit4
+third text is I am howToGit11
 
 howtoGitGit but 3
 howtoGitGit 2
