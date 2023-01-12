@@ -2,7 +2,7 @@ first text is here
 
 second text is here
 
-third text is I am howToGit11
+third text is I am howToGit11 and here is mirror too~
 
 howtoGitGit but 3
 howtoGitGit 2
